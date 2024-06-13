@@ -9,12 +9,11 @@
 
 ### How do you deliver a feature on the biggest stage in the world?
 
-- Product Engineering: Working closely with customer. Solution Engineering?
-- Leadership is important
+- New learned term: Product Engineering: Working closely with customer.
 
 ### Engineering leadership in 2024 and beyond: Skating where the puck is going when the ice is melting
 
-- Staff Engineer roleas growth
+- Staff Engineer role as growth
 - [Engineering Leadership Report 2024]](https://leaddev.com/sites/default/files/2024-06/LeadDev-Engineering-Leadership-Performance-Report-2024__LDMO__.pdf)
 - When everyone is skating where the puck will go, where will you skate?
 
@@ -24,13 +23,13 @@
 
 - Tech debt has a marketing problem.
 - Principles and Definitions
-  - The delta between current and ideal state
+  - Tech Debt: The delta between current and ideal state
   - What is not tech debt:
     - business decisions or strategy misalignment
     - lack of resource or tools
     - poor communication or cross-function
     - ...
-  - Principles
+  - Tech Debt Principles:
     - Be specific
     - Make it visible
     - Net reduce
@@ -45,27 +44,29 @@
   - One of the most senior engineers leading it
   - Tech wide impact
   - Number one problem: Knowledge
-  - Confidence Chimp (Chaos Monkey)
+  - Confidence Chimp (from Chaos Monkey)
 - Celebrate the wins, learn from the struggles
-- Learnings:
+- Challenges:
   - Migration is often forgotten. The prototype is not a problem. It's a race against time.
   - Leaders change
   - Teams change
   - Business priorities change
   - The solution does simply not fulfill its promises
 - Innovation Vehicle
-  - Product innovation <-> Debt Innovation
+  - Product Innovation <-> Debt Innovation
     - Better management
     - Better innovation
-- Doing something about tech debt:
+- Doing something about tech debt in different phases of a company:
   - Founding: survive
   - Product-market-fit: Automate
   - Scaling: do both
   - Steady: unlock
   - Mega corp: Pick hard over easy
-- If we manage our debt better, it's so we can say yes to the business more
+- If we manage our debt better, it's so we can say yes to the business more.
 
 ### From overload to oasis: Creating more time for the cool stuff
+
+> Your boring is someone else's cool.
 
 - Ask what is my cool? Make more space for it.
 
@@ -84,19 +85,19 @@
 - The Brilliance Trap
   - Field-specific ability beliefs: beliefs we hold about what success requires in a certain field - can be **inaccurate**.
   - These can interact with pre-existing biases about **who is brilliant**.
-  - Feels positive
+  - **Feels** positive
   - Contests fuel brilliance beliefs
 - 4 key psychological targets for thriving
   - Learning culture — shared, not just individual
   - Agency — devs shall have agency in decisions
   - Belonging — even if someone is different, they belong
   - Self-efficacy & motivation — even if I encounter difficulty, I will overcome it
-- How to achieve brilliance?
+- How to achieve brilliance? Two options:
   - Contest culture
-  - Thriving culture -> less people fear AI skill threat
-- Contest Culture increases
-  - -> Imposterism
-  - -> AI Skill Threat increase
+    - -> More Imposterism
+    - -> People feel AI Skill Threat
+  - Thriving culture
+    - -> less people fear AI skill threat
 - Modelling Thriving Culture
   - Learning culture influences Belonging & Team effectiveness
   - Belonging influences Productivity & Team effectiveness
@@ -144,9 +145,9 @@
 
 - DORA is great, but the graphs don't mean much on their own.
 - Basic questions & What can we measure to answer these questions:
-  - What are we building
+  - What are we building?
   - How are we building it?
-- Metrics
+- Proposed Metrics
   - Velocity (number of tickets completed in sprint) -> towards consistency and predictability
   - Proportion of tickets that are sprint goal related.
   - Sprint completion
